@@ -14,3 +14,9 @@ Verilog implementations of a 1-bit full adder using different modeling styles.
 
 ## Testbench
 `full_adder_tb.v` applies all eight possible combinations of `a`, `b`, and `cin` to the behavioral implementation.
+
+## Waveform
+<!-- Upload the waveform screenshot here. -->
+
+## Transcript
+<!-- Upload the simulation transcript screenshot here. -->

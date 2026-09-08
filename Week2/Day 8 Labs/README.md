@@ -1,9 +1,9 @@
 # Day 8 Labs
 
-Digital Design labs and exercises for NTI Week 2, Day 8.
+Digital Design labs and exercises for NTI Week 2.
 
 ## Labs
-- Lab 3
+- MUX
 - ALU
 - Data Driver
 - Decoder and Encoder

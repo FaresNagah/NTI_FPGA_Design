@@ -26,7 +26,8 @@ An 8-bit parameterized ALU implemented in Verilog.
 `alu_test.v` checks all opcode cases and the zero-input condition, then displays `TEST PASSED` when all checks succeed.
 
 ## Waveform
-<!-- Upload the waveform screenshot here. -->
+<img width="856" height="604" alt="Screenshot 2026-09-08 232300" src="https://github.com/user-attachments/assets/26ee2ce7-8447-4bce-b145-0e61311a9646" />
+
 
 ## Transcript
 <!-- Upload the simulation transcript screenshot here. -->

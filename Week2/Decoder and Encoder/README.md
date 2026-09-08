@@ -19,3 +19,9 @@ Verilog implementations of a 2-to-4 decoder and a 4-to-2 encoder.
 - `encoder_tb.v`
 
 Both testbenches exercise the implemented input cases and display the resulting outputs.
+
+## Waveform
+<!-- Upload the waveform screenshot here. -->
+
+## Transcript
+<!-- Upload the simulation transcript screenshot here. -->

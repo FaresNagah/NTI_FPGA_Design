@@ -14,3 +14,9 @@ A parameterized tri-state data driver implemented in Verilog.
 
 ## Testbench
 `driver_test.v` verifies the disabled high-impedance state and enabled outputs using `8'h55` and `8'hAA`, then displays `TEST PASSED` when all checks succeed.
+
+## Waveform
+<!-- Upload the waveform screenshot here. -->
+
+## Transcript
+<!-- Upload the simulation transcript screenshot here. -->

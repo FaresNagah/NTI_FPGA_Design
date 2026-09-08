@@ -14,3 +14,9 @@ A parameterized 2-to-1 multiplexer implemented in Verilog.
 
 ## Testbench
 `multiplexor_test.v` verifies both select conditions using 5-bit test values and displays `TEST PASSED` when all checks succeed.
+
+## Waveform
+<!-- Upload the waveform screenshot here. -->
+
+## Transcript
+<!-- Upload the simulation transcript screenshot here. -->

@@ -14,8 +14,10 @@ The testbench verifies the debouncing logic by applying input transitions and ob
 
 ## Waveform
 
+<img width="1238" height="713" alt="Screenshot 2026-09-13 221810" src="https://github.com/user-attachments/assets/73f40c6f-0865-4691-8656-f0614228e2c5" />
+
 <!-- Upload the waveform screenshot here. -->
 
 ## Transcript
-
+<img width="335" height="199" alt="Screenshot 2026-09-13 225620" src="https://github.com/user-attachments/assets/84ecbae0-99e3-4bba-bba3-02b0f1928f91" />
 <!-- Upload the simulation transcript screenshot here. -->

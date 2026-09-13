@@ -40,6 +40,7 @@ The top-level testbench `toptb.v` is used to simulate the complete edge-detector
 <img width="1139" height="586" alt="Edge Detector Waveform" src="https://github.com/user-attachments/assets/6f6e1299-65a2-4c71-b811-0ef523e95cfe" />
 
 ## Transcript
+<img width="299" height="202" alt="Screenshot 2026-09-11 025958" src="https://github.com/user-attachments/assets/7b3c8a22-dc83-4d8b-82cf-55f692170cde" />
 
 <!-- Upload the simulation transcript screenshot here. -->
 

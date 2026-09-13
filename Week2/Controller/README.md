@@ -50,8 +50,13 @@ The testbench `controller_test.v` verifies the controller by applying the differ
 ## Waveform
 
 <!-- Upload the waveform screenshot here. -->
+<img width="1229" height="613" alt="Screenshot 2026-09-09 172412" src="https://github.com/user-attachments/assets/efa9d3d7-1277-49f2-84be-2f90f519a560" />
+
+
 
 ## Transcript
+<img width="596" height="179" alt="Screenshot 2026-09-09 172357" src="https://github.com/user-attachments/assets/d9226fe7-ee04-43a6-a15b-8d565ee22ce7" />
+
 
 <!-- Upload the simulation transcript screenshot here. -->
 

@@ -289,8 +289,22 @@ Project/
     └── Packet_Routing_System_Presentation.pptx
 ~~~
 
-## Notes
+ **System Architecture**
+ 
+ <img width="986" height="546" alt="654002480-68d9d1f8-96e2-44e2-839f-ebd21ce1b54d" src="https://github.com/user-attachments/assets/787e2b8e-2bef-4ad7-b07f-0910dcade5cd" />
 
-The current repository stores the report and presentation as document files rather than as separate image assets. The figures contained inside those documents therefore cannot be referenced directly as standalone GitHub image URLs from this README without first extracting and committing them as image files.
+ <img width="561" height="971" alt="654002225-0e19f675-ade8-4982-9f84-5e8367164e1c" src="https://github.com/user-attachments/assets/6f841723-d288-4058-a27e-8cab95f7bcb8" />
 
-Once the report figures are added as PNG/JPG assets, they can be placed in this README under dedicated sections such as **System Architecture**, **Simulation Waveform**, and **Verification Results**.
+ 
+ **Simulation Waveform**
+ 
+ <img width="975" height="340" alt="654003669-244707a4-e851-4cb3-83ce-248011390af3" src="https://github.com/user-attachments/assets/12993874-56bf-4f3d-b552-85ff9dc006fb" />
+
+ <img width="869" height="318" alt="654003519-5754671f-2fa8-4b48-be25-6cd49b7c933d" src="https://github.com/user-attachments/assets/7a93c534-db03-4d3c-861d-96cca8c98017" />
+
+ 
+ 
+ **Verification Results**
+
+ <img width="838" height="477" alt="654003605-09273bda-ecfe-4eb8-b9b9-dc4891a78f95" src="https://github.com/user-attachments/assets/e3d9dbbf-fa6c-4ffc-8270-5cc537a8232c" />
+
